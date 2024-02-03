@@ -1,1 +1,2 @@
-A Java class to connect to online resources
+ConnectionHelper is a Java class to connect to online resources.
+
